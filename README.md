@@ -127,14 +127,12 @@ The Streamlit application:
 * Accuracy of SQL Queries
 * Effectiveness of Data Visualization
 * Dashboard Interactivity
-* Streamlit Application Usability
 * Business Insight Quality
 
 ##  Project Deliverables
 
 * Clean & optimized SQL queries
 * Interactive Power BI dashboard
-* Fully functional Streamlit web application
 * Business-focused documentation
 * GitHub repository with structured code
 
