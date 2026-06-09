@@ -65,7 +65,6 @@ This project aims to:
     * Python (Pandas, NumPy, Matplotlib, Seaborn) – Data Cleaning & EDA
     * SQL (MySQL) – Querying & Business Insights Extraction
     * Power BI – Interactive Dashboard Development
-    * Streamlit – Web App for Interactive Analytics
     * GitHub –  Project Documentation
 
 ---
@@ -108,15 +107,6 @@ The Power BI dashboard provides interactive visual insights segmented into five 
 * Analyzed cancellation patterns to reduce ride drop-offs
 * Evaluated surge and payment trends to improve pricing strategies
 * Compared driver and customer ratings to assess service quality
-
-##  Streamlit Application
-
-The Streamlit application:
-
-* Displays SQL query outputs dynamically
-* Allows interactive filtering
-* Embeds Power BI dashboard
-* Provides business storytelling in a user-friendly format
 
 ##  Dashboard Screenshot
 
